@@ -1,0 +1,32 @@
+//Details for gg_inferno_r
+
+inf_build01		detail/gg_inferno_r/Wall01	2.5	4.0
+inf_build02		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build02b		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build03		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build03b		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build04		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build04b		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build05		detail/gg_inferno_r/Wall01	4.0	3.0
+inf_build06		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build07		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build10		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_build10b		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_floor02		detail/gg_inferno_r/Floor02	2.0	2.0
+inf_floor03		detail/gg_inferno_r/Floor02	2.0	2.0
+inf_ground01		detail/gg_inferno_r/Ground01	4.0	4.0
+inf_ground02		detail/gg_inferno_r/Ground01	4.0	4.0
+inf_pl_wall01		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_pl_wall02		detail/gg_inferno_r/Wall01	4.0	4.0
+inf_stairs01		detail/gg_inferno_r/Floor02	2.0	2.0
+inf_sto_fl01		detail/gg_inferno_r/Floor02	2.0	2.0
+inf_wall01		detail/gg_inferno_r/Stone01	2.0	2.0
+inf_wall02		detail/gg_inferno_r/Wall01	4.0	2.0	
+inf_wood01		detail/gg_inferno_r/Wood02	2.0	0.25	
+inf_wood02		detail/gg_inferno_r/Wood02	2.0	2.0	
+inf_wood03		detail/gg_inferno_r/Wood01	4.0	2.0	
+
+
+
+
+
