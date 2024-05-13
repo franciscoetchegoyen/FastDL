@@ -1,0 +1,16 @@
+cs_assault
+awp_map
+cs_militia
+de_dust2
+de_inferno
+fy_iceworld
+fy_iceworld2k
+gg_inferno_r
+gg_mini_dust2
+gg_tetris_street
+cs_ez
+fy_chavo
+fy_snow
+fy_pool_day
+awp_minimilitia
+fy_pool_day2
